@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Person Manager Demo</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- String for Button -->
+    <string name="btnGetPerson">Get Person</string>
+    <string name="btnAddPerson">Add Person</string>
+    <string name="btnExportToXml">Export To Xml</string>
+    <string name="btnViewDetail">View Detail</string>
+    <string name="btnEdit">Edit Person</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnReset">Reset</string>
+    <string name="btnBackToMain">Back To Main</string>
+	<string name="btnDelete">Delete Person</string>
+	<string name="btnUpdate">Update</string>
+	<string name="btnDeleteAll">Delete All</string>
+    
+    <!-- String for Label -->
+    <string name="labelAddPersonActivity">Add Person</string>
+    <string name="labelListPersonActivity">List Person</string>
+    <string name="labelEditPersonActivity">Edit Person</string>
+    <string name="labelPersonDetailActivity">Person Detail</string>
+    <string name="labelFullName">Full Name</string>
+    <string name="labelYearOfBirth">Year Of Birth</string>
+    <string name="labelGender">Gender</string>
+    <string name="labelInterested">Interested</string>
+   	<string name="labelDescription">Description</string>
+   	
+    <!--  -->
+    <string name="strEditTextHint">enter name</string>
+    <string name="strCheckBoxSport">Sport</string>
+    <string name="strCheckBoxGame">Game</string>
+    <string name="strCheckBoxMusic">Music</string>
+    <!-- String for RadioButton -->
+    <string name="strRadioBtMale">Male</string>
+    <string name="strRadioBtFemale">Female</string>
+    <!-- Spinner  -->
+    <string name="birth_prompt">Choose a year of birth</string>
+    <string-array name="birth_arrays">
+        <item>1984</item>
+        <item>1985</item>
+        <item>1986</item>
+        <item>1987</item>
+        <item>1988</item>
+        <item>1989</item>
+        <item>1990</item>
+    </string-array>
+
+</resources>

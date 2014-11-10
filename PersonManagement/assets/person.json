@@ -1,0 +1,28 @@
+{
+    "persons": [
+        {
+                "id": "1",
+                "name": "Quang Vu",
+                "yearOfBirth": "1986",
+                "gender" : "male",
+                "interested": "Music, Sport, Game",
+                "description" : "mad man"           
+        },
+        {
+                "id": "2",
+                "name": "Khang Vu",
+                "yearOfBirth": "1990",
+                "gender" : "male",
+                "interested": "Music, Sport, Game",
+                "description" : "bad man"           
+        },
+        {
+                "id": "3",
+                "name": "Tuyen",
+                "yearOfBirth": "1986",
+                "gender" : "male",
+                "interested": "Music, Sport, Game",
+                "description" : "good man"           
+        }
+  ]
+}
